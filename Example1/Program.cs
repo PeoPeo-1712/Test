@@ -2,6 +2,7 @@ namespace Example1
 {
     internal static class Program
     {
+        // Day la comment cua HLoc26
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
