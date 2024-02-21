@@ -4,6 +4,7 @@ namespace Example1
     {
         public Form1()
         {
+            //chu thich 1
             InitializeComponent();
         }
     }
