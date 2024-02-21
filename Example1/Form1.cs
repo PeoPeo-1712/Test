@@ -5,6 +5,7 @@ namespace Example1
         public Form1()
         {
             //chu thich 1
+            //Cap nhat chu thich con
             InitializeComponent();
         }
     }
